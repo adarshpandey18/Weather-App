@@ -10,7 +10,7 @@ Weather App is a Flutter application that displays weather forecast data using t
 
 ## Screenshots
 
-![Screenshot](https://github.com/adarshpandey18/Weather-App/blob/main/assets/Screenshot.jpg)
+<img src="https://github.com/adarshpandey18/Weather-App/blob/main/assets/Screenshot.jpg" width="300" alt="Screenshot">
 
 ## Getting Started
 
